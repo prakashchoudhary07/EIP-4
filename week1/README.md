@@ -3,7 +3,7 @@
 
 **Definations:**
 
-*Convolution
+* Convolution
 Operation performed on the image to get a new image. Ex convolving a 3*3 matrix on 5*5 matrix i.e converting a 5*5 matrix to 3*3 by performing operaitons like matrix multiplication the product matrix would be the new matrix (resolution of an image).
 
 * Filters/Kernels
