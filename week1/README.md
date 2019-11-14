@@ -1,1 +1,1 @@
-Value of print(score) is : 99.19 %
+Value of print(score) is : 99.09 %
