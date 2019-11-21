@@ -1,4 +1,4 @@
-##Logs 
+## Logs 
 
 Train on 60000 samples, validate on 10000 samples
 Epoch 1/16
@@ -75,7 +75,7 @@ Epoch 00016: LearningRateScheduler setting learning rate to 0.0005185825.
 ## Reault of model.evaluate (X_test, Y_test, verbose=0)
 [0.01713531746226945, 0.9954]
 
-##Score 0.9954
+## Score 0.9954
 
 
-### To achieve the desired results maxpooling was used and it resuced it to 2X2 thus by maintaing the parameters under 15k and giving performance of 0.9954
+#### To achieve the desired results maxpooling was used and it resuced it to 2X2 thus by maintaing the parameters under 15k and giving performance of 0.9954
